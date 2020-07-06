@@ -1,6 +1,6 @@
 {
-  "name": "castlegate-atlas-demo",
-  "version": "0.1.1",
+  "name": "@castlegate/atlas-demo",
+  "version": "0.1.2",
   "description": "Standard front end components demo",
   "main": "index.js",
   "scripts": {
@@ -16,6 +16,6 @@
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
-    "castlegate-atlas": "^0.1.0"
+    "@castlegate/atlas": "^0.2.1"
   }
 }
